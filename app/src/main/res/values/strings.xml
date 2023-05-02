@@ -1,0 +1,49 @@
+<resources>
+    <string name="home_screen">Home</string>
+    <string name="app_name">PlantPlus</string>
+    <string name="main_screen_name">My Plants</string>
+    <string name="user_profile_name">User Profile</string>
+    <string name="setting_name">Settings</string>
+    <string name="password_change_or_reset">Password change and reset</string>
+    <string name="personal_info_edit">Personal info edit</string>
+    <string name="scan_history">Scan history</string>
+    <string name="plant_states">Plant states</string>
+    <string name="stars">stars (Future)</string>
+    <string name="login">Log In</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">E-mail</string>
+    <string name="signup">Sign Up</string>
+    <string name="forgetpass">Forget Passward?</string>
+    <string name="result">Result</string>
+    <string name="possibleresult">Possible Result</string>
+    <string name="ratetheresult">Please rate the result</string>
+    <string name="scan">Scan Diseases</string>
+    <string name="take_photo">Take a new photo</string>
+    <string name="upload">Upload a photo</string>
+    <string name="wellcome">Wellcome !</string>
+    <string name="main">MainScreen(temporary)</string>
+    <string name="logout">Log Out</string>
+    <string name="add">Add</string>
+    <string name="classificationResult">Classification Result</string>
+
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+    <string name="workspace">Add Work Space</string>
+    <string name="workspace1">Work Spaces</string>
+
+
+    <string name="test1">Start Capture</string>
+    <string name="test2">Stop Capture</string>
+    <string name="test3">Add Work Space</string>
+    <string name="test4">Work Spaces</string>
+    <string name="predict">Predict</string>
+    <string name="delete">Delete</string>
+    <string name="permission_camera">You said you wanted a picture, so I\'m going to have to ask for permission.</string>
+    <string name="permission_camera_error">O noes! No Camera!</string>
+    <string name="open_setting">Open Settings</string>
+    <string name="works_tip">It worked!</string>
+    <string name="rational_tip">Permission request</string>
+    <string name="ok">Ok</string>
+
+
+</resources>
